@@ -1,7 +1,7 @@
 # Emoticon / Kaomoji Dataset (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧
 A dataset of 62,000 text emoticons and kaomojis with tags.
   
-Dataset includes the original tags from the source of the emoticon, as well as new higher-quality tags manually labeled by me. Most sites that were scraped had section headers that are treated as tags, but sometimes emoticons had individual titles. Manually-labeled tags were constructed using a combination of the original tags and extensive regular expressions with visual inspection. About 10,000 of the emoticons are missing the manual tags. Manual tags should not be considered comprehensive.
+Dataset includes the original tags from the source of the emoticon, as well as new higher-quality tags manually labeled by me. Most sites that were scraped had section headers that are treated as tags, but sometimes emoticons had individual titles. Manually-labeled tags were constructed using a combination of the original tags, extensive regular expressions, and visual inspection. About 10,000 of the emoticons are missing the manual tags. Manual tags should not be considered comprehensive.
   
 Also included is a notebook with code for searching emoticons by TF-IDF similarity, and a few examples from each tag.
   
