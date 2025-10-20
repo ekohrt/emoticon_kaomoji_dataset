@@ -7,7 +7,7 @@ Also included is a notebook with code for searching emoticons by TF-IDF similari
   
 ### Scraping sources:  
 - https://www.textemoticons.top/  *
-- https://www.messletters.com/en/emoticons/  *  
+- https://www.messletters.com/en/emoticons/   
 - https://kaomojis.org/  
 - https://jref.com/articles/emoji.36/  
 - https://www.emoticonstext.com/  
